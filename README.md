@@ -7,7 +7,7 @@
 
 ## Destaques do período
 - **174 corridas concluídas**
-- **~R$ 4,5 mil** de receita
+- ** R$ 4,5 mil** de receita
 - **Ticket médio:** **R$ 25,88**
 - **Distância média:** **4,78 km**  |  **Duração média:** **14 min**  → ~**20,5 km/h**
 - **Taxa de cancelamento (global):** **13,0%**
