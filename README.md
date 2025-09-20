@@ -2,8 +2,7 @@
 
 > Base **fictícia** para estudo. Período analisado: **jun–set/2025**.
 
-![Dashboard – Análise da Uber – SP](![Dashboard – Análise da Uber – SP]dashboard-analise-uber-sp.png)
-)
+![Dashboard – Análise da Uber – SP](Dashboard%20An%C3%A1lise%20da%20Uber%20-%20SP.png)
 
 ## Destaques do período
 - **174 corridas concluídas**
@@ -13,20 +12,20 @@
 - **Taxa de cancelamento (global):** **13,0%**
 
 ## O que os dados mostram
-- **Agosto** foi o mês mais forte; **setembro** caiu um pouco.  
-- **UberX** ≈ metade das viagens; **Comfort** e **Black** ~20% cada; **Moto** pequena.  
-- **Black** tem **ticket ~R$ 39**.  
-- **Moema**, **Bela Vista** e **Liberdade** aparecem muito como origem.  
-- **Cartão** puxa bons valores de receita e ticket.
+- **Agosto** foi o mês mais forte em volume e receita; **setembro** caiu um pouco.
+- **UberX** concentra cerca de **metade** das viagens. **Comfort** e **Black** ficam por volta de **20%** cada; **Moto** tem participação pequena.
+- Em preço, **Black** se destaca com **ticket ~R$ 39**, acima das demais categorias.
+- **Bairros de origem** mais frequentes: **Moema**, **Bela Vista** e **Liberdade**.
+- Em **pagamento**, **cartão** aparece com bons valores de receita e ticket.
 
-## Ideias para testar
-- Reforçar motoristas nos **bairros líderes** nos picos (menos espera, menos cancelamento).  
-- Sugerir **upgrade** (UberX → Comfort/Black) quando preço e espera ajudarem.  
-- Abrir **cancelamentos por horário** e **tempo de espera**; metas por faixa.  
-- Acompanhar **mês a mês** o que muda por **quantidade** e por **preço**.
+## Ideias para testar (hipóteses)
+- Reforçar **motoristas nos bairros líderes** nos horários de pico (menos espera, menos cancelamento).
+- **Sugerir categoria superior** (ex.: de UberX para Comfort/Black) quando a diferença de preço for pequena e a espera estiver favorável.
+- Abrir **cancelamentos por horário** e **tempo de espera** para metas de redução por faixa.
+- Acompanhar **mês a mês** o que muda por **quantidade de viagens** e o que muda por **preço**.
 
 ## Dados
 - Base (XLSX): [uber_rides_base.xlsx](uber_rides_base.xlsx)
 
-> Este repositório guarda apenas a **imagem** do painel e esta **análise** (sem arquivo do Power BI).
-
+> Este repositório guarda apenas a **imagem** do painel e esta **análise** descritiva.  
+> Não há arquivo do Power BI para download.
