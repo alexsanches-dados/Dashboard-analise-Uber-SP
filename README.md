@@ -2,7 +2,7 @@
 
 > Base **fictícia** para estudo. Período analisado: **jun–set/2025**.
 
-![Dashboard – Análise da Uber – SP](![Dashboard – Análise da Uber – SP](dashboard-analise-uber-sp.png)
+![Dashboard – Análise da Uber – SP](![Dashboard – Análise da Uber – SP]dashboard-analise-uber-sp.png)
 )
 
 ## Destaques do período
