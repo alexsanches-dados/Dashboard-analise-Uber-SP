@@ -2,7 +2,8 @@
 
 > Base **fictícia** para estudo. Período analisado: **jun–set/2025**.
 
-![Dashboard – Análise da Uber – SP](Dashboard%20An%C3%A1lise%20da%20Uber%20-%20SP.png)
+![Dashboard – Análise da Uber – SP](![Dashboard – Análise da Uber – SP](dashboard-analise-uber-sp.png)
+)
 
 ## Destaques do período
 - **174 corridas concluídas**
